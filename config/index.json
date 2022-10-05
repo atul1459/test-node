@@ -1,0 +1,7 @@
+{
+    "app": {
+        "prefix": "test-app"
+    },
+    "db": {
+        "url": "mongodb+srv://m001-student:Password123@cluster0.zndfh.mongodb.net/?retryWrites=true&w=majority"
+    }}
